@@ -1,1 +1,3 @@
 # Statistical-Machine-Learning
+
+This class provides an introduction to Machine Learning and its core algorithms, with an emphasis on the statistical properties of the learning methods. Topics include linear methods for regression and classification, model selection and regularization, kernels, decision trees, boosting, bagging, random forests, suport vector machines, principle component analysis, clustering, and Bayesian models. The class also gives a brief introduction to convex optimization and Markov chain Monte Carlo. Advanced topics may include neural networks, spectral clustering and non-linear dimension reduction methods.
